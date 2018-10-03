@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AprendendoIdentity4.Identity", "AprendendoIdentity4.Identity\AprendendoIdentity4.Identity.csproj", "{F50B958B-5FC6-4446-BEBF-9C0E963749D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoIdentity4.Web", "AprendendoIdentity4.Web\AprendendoIdentity4.Web.csproj", "{247E4491-101C-4151-8A7A-1465D4942BAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AprendendoIdentity4.Web", "AprendendoIdentity4.Web\AprendendoIdentity4.Web.csproj", "{247E4491-101C-4151-8A7A-1465D4942BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoIdentity4.Console", "AprendendoIdentity4.Console\AprendendoIdentity4.Console.csproj", "{062A33A0-9675-4E39-97B1-B9067A3D6590}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,18 @@ Global
 		{247E4491-101C-4151-8A7A-1465D4942BAF}.Release|x64.Build.0 = Release|Any CPU
 		{247E4491-101C-4151-8A7A-1465D4942BAF}.Release|x86.ActiveCfg = Release|Any CPU
 		{247E4491-101C-4151-8A7A-1465D4942BAF}.Release|x86.Build.0 = Release|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Debug|x64.Build.0 = Debug|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Debug|x86.Build.0 = Debug|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Release|x64.ActiveCfg = Release|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Release|x64.Build.0 = Release|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Release|x86.ActiveCfg = Release|Any CPU
+		{062A33A0-9675-4E39-97B1-B9067A3D6590}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

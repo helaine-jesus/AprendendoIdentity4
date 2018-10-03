@@ -8,3 +8,4 @@ D:\Projetos\AprendendoIdentity4\AprendendoIdentity4.Identity\obj\Debug\netcoreap
 D:\Projetos\AprendendoIdentity4\AprendendoIdentity4.Identity\obj\Debug\netcoreapp2.0\AprendendoIdentity4.Identity.AssemblyInfo.cs
 D:\Projetos\AprendendoIdentity4\AprendendoIdentity4.Identity\obj\Debug\netcoreapp2.0\AprendendoIdentity4.Identity.dll
 D:\Projetos\AprendendoIdentity4\AprendendoIdentity4.Identity\obj\Debug\netcoreapp2.0\AprendendoIdentity4.Identity.pdb
+D:\Projetos\AprendendoIdentity4\AprendendoIdentity4.Identity\obj\Debug\netcoreapp2.0\AprendendoIdentity4.Identity.csprojResolveAssemblyReference.cache
