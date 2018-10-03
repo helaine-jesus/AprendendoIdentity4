@@ -12752,9 +12752,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/aspnetmaster/": {},
-        "https://www.myget.org/F/unio-unstable/api/v3/index.json": {},
-        "https://www.myget.org/F/unio/api/v2/": {}
+        "https://www.myget.org/F/aspnetmaster/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

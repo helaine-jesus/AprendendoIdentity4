@@ -53,3 +53,9 @@ Internal.Cryptography.CryptoThrowHelper+WindowsCryptographicException: O sistema
 2018-10-02 00:47:55.038 -03:00 [DBG] Using idsrv as default scheme for sign-out
 2018-10-02 00:47:55.038 -03:00 [DBG] Using idsrv as default scheme for challenge
 2018-10-02 00:47:55.038 -03:00 [DBG] Using idsrv as default scheme for forbid
+2018-10-03 03:47:31.909 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-10-03 03:47:31.949 -03:00 [DBG] Using idsrv as default scheme for authentication
+2018-10-03 03:47:31.952 -03:00 [DBG] Using idsrv as default scheme for sign-in
+2018-10-03 03:47:31.953 -03:00 [DBG] Using idsrv as default scheme for sign-out
+2018-10-03 03:47:31.953 -03:00 [DBG] Using idsrv as default scheme for challenge
+2018-10-03 03:47:31.953 -03:00 [DBG] Using idsrv as default scheme for forbid
