@@ -59,3 +59,43 @@ Internal.Cryptography.CryptoThrowHelper+WindowsCryptographicException: O sistema
 2018-10-03 03:47:31.953 -03:00 [DBG] Using idsrv as default scheme for sign-out
 2018-10-03 03:47:31.953 -03:00 [DBG] Using idsrv as default scheme for challenge
 2018-10-03 03:47:31.953 -03:00 [DBG] Using idsrv as default scheme for forbid
+2018-10-03 04:03:41.314 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-10-03 04:03:41.349 -03:00 [DBG] Using idsrv as default scheme for authentication
+2018-10-03 04:03:41.352 -03:00 [DBG] Using idsrv as default scheme for sign-in
+2018-10-03 04:03:41.353 -03:00 [DBG] Using idsrv as default scheme for sign-out
+2018-10-03 04:03:41.353 -03:00 [DBG] Using idsrv as default scheme for challenge
+2018-10-03 04:03:41.353 -03:00 [DBG] Using idsrv as default scheme for forbid
+2018-10-03 04:17:53.090 -03:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2018-10-03 04:17:53.098 -03:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2018-10-03 04:17:53.098 -03:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2018-10-03 04:17:53.103 -03:00 [DBG] Start discovery request
+2018-10-03 04:25:47.533 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-10-03 04:25:47.579 -03:00 [DBG] Using idsrv as default scheme for authentication
+2018-10-03 04:25:47.582 -03:00 [DBG] Using idsrv as default scheme for sign-in
+2018-10-03 04:25:47.582 -03:00 [DBG] Using idsrv as default scheme for sign-out
+2018-10-03 04:25:47.583 -03:00 [DBG] Using idsrv as default scheme for challenge
+2018-10-03 04:25:47.583 -03:00 [DBG] Using idsrv as default scheme for forbid
+2018-10-03 04:27:10.594 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-10-03 04:27:10.634 -03:00 [DBG] Using idsrv as default scheme for authentication
+2018-10-03 04:27:10.638 -03:00 [DBG] Using idsrv as default scheme for sign-in
+2018-10-03 04:27:10.638 -03:00 [DBG] Using idsrv as default scheme for sign-out
+2018-10-03 04:27:10.639 -03:00 [DBG] Using idsrv as default scheme for challenge
+2018-10-03 04:27:10.639 -03:00 [DBG] Using idsrv as default scheme for forbid
+2018-10-03 04:27:35.899 -03:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2018-10-03 04:27:35.915 -03:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2018-10-03 04:27:35.915 -03:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2018-10-03 04:27:35.920 -03:00 [DBG] Start discovery request
+2018-10-03 04:28:23.770 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-10-03 04:28:23.816 -03:00 [DBG] Using idsrv as default scheme for authentication
+2018-10-03 04:28:23.819 -03:00 [DBG] Using idsrv as default scheme for sign-in
+2018-10-03 04:28:23.820 -03:00 [DBG] Using idsrv as default scheme for sign-out
+2018-10-03 04:28:23.820 -03:00 [DBG] Using idsrv as default scheme for challenge
+2018-10-03 04:28:23.820 -03:00 [DBG] Using idsrv as default scheme for forbid
+2018-10-03 04:28:31.405 -03:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2018-10-03 04:28:31.424 -03:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2018-10-03 04:28:31.424 -03:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2018-10-03 04:28:31.428 -03:00 [DBG] Start discovery request
+2018-10-03 04:28:53.513 -03:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2018-10-03 04:28:53.513 -03:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2018-10-03 04:28:53.513 -03:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2018-10-03 04:28:53.513 -03:00 [DBG] Start discovery request
